@@ -3,7 +3,7 @@
 #
 1.项目登录页面
 
-![image-20220401125545505](C:\Users\86183\AppData\Roaming\Typora\typora-user-images\image-20220401125545505.png)
+![image-20220401130039753](https://github.com/lushisan/Dormanner-System/blob/main/images/image-20220401125545505.png)
 
 2.系统管理员（admin）界面
 
